@@ -19,8 +19,8 @@ EXCLUDE_LINKS = ['http://localhost:5000/',
                  '/admin/create/']
                  
 # Yours login and password to access the site:
-login = 'admin' 
-password = '123'
+login = '' 
+password = ''
 
 #Requirements
 It using next libraries, you must install it first:
